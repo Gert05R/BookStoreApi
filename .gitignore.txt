@@ -1,0 +1,31 @@
+# Visual Studio Code files
+.vscode/
+
+# Visual Studio files
+*.sln
+*.csproj
+*.csproj.user
+obj/
+bin/
+
+# Build results
+/bin/
+/obj/
+
+# Packages directory
+/packages/
+
+# Logs
+*.log
+logs/
+
+# User-specific files
+*.user
+
+# .NET Core artifacts
+project.lock.json
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
