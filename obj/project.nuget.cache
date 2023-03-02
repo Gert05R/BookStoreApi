@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wQOxTx24PDo4I1ksY4sYuV68WOeDwGbXfRnsf1LjHsH1UyjPJ9d+956LkbaxQfGqpNK9Ycf3ZFm/yxCF2NUucQ==",
+  "dgSpecHash": "OvVLyrut1qPXK0jFALM878ZMLyr+ih7I9wwdg0eHEeekkQoIB0qWIzwKTl/wq2ezyQkK3C74yG6QNCJ9Cey7Vw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\raeym\\Documents\\.NETProjects\\BookStoreApi\\BookStoreApi\\BookStoreApi.csproj",
+  "projectFilePath": "C:\\Users\\raeym\\Documents\\.NETProjects\\BookStoreApi\\bookstoreapi\\BookStoreApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\raeym\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\raeym\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\raeym\\Documents\\.NETProjects\\BookStoreApi\\BookStoreApi\\BookStoreApi.csproj": {}
+    "C:\\Users\\raeym\\Documents\\.NETProjects\\BookStoreApi\\bookstoreapi\\BookStoreApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\raeym\\Documents\\.NETProjects\\BookStoreApi\\BookStoreApi\\BookStoreApi.csproj": {
+    "C:\\Users\\raeym\\Documents\\.NETProjects\\BookStoreApi\\bookstoreapi\\BookStoreApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\raeym\\Documents\\.NETProjects\\BookStoreApi\\BookStoreApi\\BookStoreApi.csproj",
+        "projectUniqueName": "C:\\Users\\raeym\\Documents\\.NETProjects\\BookStoreApi\\bookstoreapi\\BookStoreApi.csproj",
         "projectName": "BookStoreApi",
-        "projectPath": "C:\\Users\\raeym\\Documents\\.NETProjects\\BookStoreApi\\BookStoreApi\\BookStoreApi.csproj",
+        "projectPath": "C:\\Users\\raeym\\Documents\\.NETProjects\\BookStoreApi\\bookstoreapi\\BookStoreApi.csproj",
         "packagesPath": "C:\\Users\\raeym\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\raeym\\Documents\\.NETProjects\\BookStoreApi\\BookStoreApi\\obj\\",
+        "outputPath": "C:\\Users\\raeym\\Documents\\.NETProjects\\BookStoreApi\\bookstoreapi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
